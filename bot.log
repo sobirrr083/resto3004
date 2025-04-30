@@ -1,0 +1,45 @@
+2025-04-29 19:15:49,086 - __main__ - INFO - Starting bot...
+2025-04-29 19:15:53,056 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7258898491:AAG0yzr3VI86IhrYywPuM67PMKooRn_8wac/getMe "HTTP/1.1 200 OK"
+2025-04-29 19:15:53,179 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7258898491:AAG0yzr3VI86IhrYywPuM67PMKooRn_8wac/deleteWebhook "HTTP/1.1 200 OK"
+2025-04-29 19:15:53,185 - apscheduler.scheduler - INFO - Scheduler started
+2025-04-29 19:15:53,186 - telegram.ext.Application - INFO - Application started
+2025-04-29 19:16:03,524 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7258898491:AAG0yzr3VI86IhrYywPuM67PMKooRn_8wac/getUpdates "HTTP/1.1 200 OK"
+2025-04-29 19:16:13,698 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7258898491:AAG0yzr3VI86IhrYywPuM67PMKooRn_8wac/getUpdates "HTTP/1.1 200 OK"
+2025-04-29 19:16:23,931 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7258898491:AAG0yzr3VI86IhrYywPuM67PMKooRn_8wac/getUpdates "HTTP/1.1 200 OK"
+2025-04-29 19:16:29,380 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7258898491:AAG0yzr3VI86IhrYywPuM67PMKooRn_8wac/getUpdates "HTTP/1.1 200 OK"
+2025-04-29 19:16:29,381 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-04-29 19:16:29,381 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2025-04-29 19:16:29,382 - telegram.ext.Application - INFO - Application.stop() complete
+2025-04-29 19:16:42,632 - __main__ - INFO - Starting bot...
+2025-04-29 19:16:43,159 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7258898491:AAG0yzr3VI86IhrYywPuM67PMKooRn_8wac/getMe "HTTP/1.1 200 OK"
+2025-04-29 19:16:43,295 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7258898491:AAG0yzr3VI86IhrYywPuM67PMKooRn_8wac/deleteWebhook "HTTP/1.1 200 OK"
+2025-04-29 19:16:43,298 - apscheduler.scheduler - INFO - Scheduler started
+2025-04-29 19:16:43,298 - telegram.ext.Application - INFO - Application started
+2025-04-29 19:16:53,710 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7258898491:AAG0yzr3VI86IhrYywPuM67PMKooRn_8wac/getUpdates "HTTP/1.1 200 OK"
+2025-04-29 19:17:03,825 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7258898491:AAG0yzr3VI86IhrYywPuM67PMKooRn_8wac/getUpdates "HTTP/1.1 200 OK"
+2025-04-29 19:17:11,597 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7258898491:AAG0yzr3VI86IhrYywPuM67PMKooRn_8wac/getUpdates "HTTP/1.1 200 OK"
+2025-04-29 19:17:11,598 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-04-29 19:17:11,599 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2025-04-29 19:17:11,599 - telegram.ext.Application - INFO - Application.stop() complete
+2025-04-29 19:20:34,684 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7258898491:AAG0yzr3VI86IhrYywPuM67PMKooRn_8wac/getMe "HTTP/1.1 200 OK"
+2025-04-29 19:20:34,800 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7258898491:AAG0yzr3VI86IhrYywPuM67PMKooRn_8wac/deleteWebhook "HTTP/1.1 200 OK"
+2025-04-29 19:20:34,802 - apscheduler.scheduler - INFO - Scheduler started
+2025-04-29 19:20:34,803 - telegram.ext.Application - INFO - Application started
+2025-04-29 19:20:45,153 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7258898491:AAG0yzr3VI86IhrYywPuM67PMKooRn_8wac/getUpdates "HTTP/1.1 200 OK"
+2025-04-29 19:20:55,267 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7258898491:AAG0yzr3VI86IhrYywPuM67PMKooRn_8wac/getUpdates "HTTP/1.1 200 OK"
+2025-04-29 19:21:03,291 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7258898491:AAG0yzr3VI86IhrYywPuM67PMKooRn_8wac/getUpdates "HTTP/1.1 200 OK"
+2025-04-29 19:21:03,292 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-04-29 19:21:03,292 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2025-04-29 19:21:03,293 - telegram.ext.Application - INFO - Application.stop() complete
+2025-04-29 19:21:28,608 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7258898491:AAG0yzr3VI86IhrYywPuM67PMKooRn_8wac/getMe "HTTP/1.1 200 OK"
+2025-04-29 19:21:28,730 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7258898491:AAG0yzr3VI86IhrYywPuM67PMKooRn_8wac/deleteWebhook "HTTP/1.1 200 OK"
+2025-04-29 19:21:28,732 - apscheduler.scheduler - INFO - Scheduler started
+2025-04-29 19:21:28,733 - telegram.ext.Application - INFO - Application started
+2025-04-29 19:21:39,105 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7258898491:AAG0yzr3VI86IhrYywPuM67PMKooRn_8wac/getUpdates "HTTP/1.1 200 OK"
+2025-04-29 19:21:51,690 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7258898491:AAG0yzr3VI86IhrYywPuM67PMKooRn_8wac/getUpdates "HTTP/1.1 200 OK"
+2025-04-29 19:22:01,835 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7258898491:AAG0yzr3VI86IhrYywPuM67PMKooRn_8wac/getUpdates "HTTP/1.1 200 OK"
+2025-04-29 19:22:11,978 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7258898491:AAG0yzr3VI86IhrYywPuM67PMKooRn_8wac/getUpdates "HTTP/1.1 200 OK"
+2025-04-29 19:22:17,412 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7258898491:AAG0yzr3VI86IhrYywPuM67PMKooRn_8wac/getUpdates "HTTP/1.1 200 OK"
+2025-04-29 19:22:17,413 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-04-29 19:22:17,414 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2025-04-29 19:22:17,414 - telegram.ext.Application - INFO - Application.stop() complete
